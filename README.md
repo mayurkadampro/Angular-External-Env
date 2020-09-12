@@ -1,5 +1,4 @@
 <h2> blog post & video link </h2>
-<br>
 
 https://link.medium.com/z0X4GBtTw9 
 
